@@ -5,7 +5,8 @@
 - На данный момент пишу плагины)
 
 - Мои соц. сеточки:
-- [image](https://user-images.githubusercontent.com/100563680/166118882-83e850e3-f7d3-4c18-a148-b8a67f25a047.png)
+- Discord: барабум#6969
+- VK: https://vk.com/barabumbam
 
 <!---
 barabumjcp/barabumjcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
