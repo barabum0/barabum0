@@ -5,3 +5,5 @@
 - Socials:
 - Discord: барабум#5801
 - VK: https://vk.com/barabumbam
+
+[This page on Russian / Эта страница на русском](https://github.com/barabum0/barabum0/blob/main/README_rus.md)
