@@ -5,7 +5,16 @@
 - На данный момент пишу плагины)
 
 - Мои соц. сеточки:
-- Discord: барабум#6969
+- Discord: барабум#5801
+- VK: https://vk.com/barabumbam
+
+
+- 👋 Hi! I'm barabum, and my rl name is Roman.
+- I'm interestd in coding for abuot three years
+- Skills: Java, Unity, Python, Android, MC plugins.
+
+- Socials:
+- Discord: барабум#5801
 - VK: https://vk.com/barabumbam
 
 <!---
