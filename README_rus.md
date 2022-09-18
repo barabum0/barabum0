@@ -6,6 +6,7 @@
 
 - Мои соц. сеточки:
 - Discord: барабум#5801
-- VK: https://vk.com/barabumbam
+- ВК: https://vk.com/barabumbam
+- ТГ: https://t.me/barabumbum
 
 [This page on English / Эта страница на английском](https://github.com/barabum0/barabum0/blob/main/README.md)
