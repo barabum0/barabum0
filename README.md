@@ -7,9 +7,15 @@
     Unity, Android Java, C# CLI
 </skills>
 <tools>
-    PyCharm, Intelij IDEA, Rider 
+    PyCharm, Intelij IDEA, Rider, VS Code,
+    git
 </tools>
+<frameworks src="maybe i forgot somethng">
+    Flask, PyQt5, aiogram
+</frameworks>
 ```
+
+
 
 Socials:
 - Discord: барабум#5801
