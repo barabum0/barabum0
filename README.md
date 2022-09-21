@@ -1,7 +1,7 @@
 ```html
 <name>Roman</name>
 <programmer>since 2019</programmer>
-<langs>Python, Java, C#</langs>
+<langs>Python, Java, C#, a little JS</langs>
 <skills>
     Python CLI, Java CLI, MC Plugins,
     Unity, Android Java, C# CLI
@@ -11,7 +11,7 @@
     git
 </tools>
 <frameworks src="maybe i forgot somethng">
-    Flask, PyQt5, aiogram
+    Flask, PyQt5, aiogram, RPI
 </frameworks>
 ```
 
