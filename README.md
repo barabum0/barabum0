@@ -10,7 +10,7 @@
     PyCharm, Intelij IDEA, Rider, VS Code,
     git
 </tools>
-<frameworks src="maybe i forgot somethng">
+<frameworks alt="maybe i forgot somethng">
     Flask, PyQt5, aiogram, RPI
 </frameworks>
 ```
