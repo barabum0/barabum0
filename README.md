@@ -6,6 +6,9 @@
     Python CLI, Java CLI, MC Plugins,
     Unity, Android Java, C# CLI
 </skills>
+<tools>
+    PyCharm, Intelij IDEA, Rider 
+</tools>
 ```
 
 Socials:
