@@ -1,11 +1,11 @@
 ```html
-<имя>Роман</имя>
-<программист>с 2019</программист>
-<языки>Python, Java, C#</языки>
-<умения>
+<name>Роман</name>
+<programmer>с 2019</programmer>
+<langs>Python, Java, C#</langs>
+<skills>
     Python CLI, Майнкрафт Плагины,
     Unity, Android Java, C# CLI, Java CLI
-</умения>
+</skills>
 ```
 
 - Мои соц. сеточки:
