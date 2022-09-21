@@ -1,6 +1,12 @@
-- 👋 Hi! I'm barabum, and my rl name is Roman.
-- I'm interestd in coding for about three years
-- Skills: Java, Unity, Python, Android, MC plugins.
+```html
+<name>Roman</name>
+<programmer>since 2019</programmer>
+<languages>Python, Java, C#</languages>
+<skills>
+    Python CLI, Java CLI, MC Plugins,
+    Unity, Android Java, C# CLI
+</skills>
+```
 
 - Socials:
 - Discord: барабум#5801
