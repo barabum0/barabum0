@@ -1,14 +1,14 @@
 ```html
 <name>Roman</name>
 <programmer>since 2019</programmer>
-<languages>Python, Java, C#</languages>
+<langs>Python, Java, C#</langs>
 <skills>
     Python CLI, Java CLI, MC Plugins,
     Unity, Android Java, C# CLI
 </skills>
 ```
 
-- Socials:
+Socials:
 - Discord: барабум#5801
 - VK: https://vk.com/barabumbam
 - TG: https://t.me/barabumbum
