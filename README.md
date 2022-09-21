@@ -1,7 +1,7 @@
 ```html
 <name>Roman</name>
 <programmer>since 2019</programmer>
-<langs>()[https://img.shields.io/badge/python-3.10-blue], Java, C#</langs>
+<langs>Python, Java, C#</langs>
 <skills>
     Python CLI, Java CLI, MC Plugins,
     Unity, Android Java, C# CLI
