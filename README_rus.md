@@ -8,7 +8,7 @@
 </skills>
 ```
 
-- Мои соц. сеточки:
+Мои соц. сеточки:
 - Discord: барабум#5801
 - ВК: https://vk.com/barabumbam
 - ТГ: https://t.me/barabumbum
