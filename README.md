@@ -8,10 +8,10 @@
 </skills>
 <tools>
     PyCharm, Intelij IDEA, Rider, VS Code,
-    git
+    git, RPI
 </tools>
 <frameworks alt="maybe i forgot somethng">
-    Flask, PyQt5, aiogram, RPI
+    Flask, PyQt5, aiogram, sqlite
 </frameworks>
 ```
 
