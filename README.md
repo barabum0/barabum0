@@ -19,5 +19,4 @@
 
 Socials:
 - Discord: барабум#5801
-- VK: https://vk.com/barabumbam
 - TG: https://t.me/barabumbum
