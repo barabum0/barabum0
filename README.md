@@ -1,13 +1,11 @@
-website - https://sushka.dev
-```yaml
-name: Roman
-speaking:
-    - English
-    - Russian
+### My name is Roman. I'm a developer from Russia. Currently work in [suvvy.ai](https://suvvy.ai) as a backend dev.
 
-languages:
-    - Python
-    - C#
-    - Java
-    - A little JS
-```
+## My skills:
+
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,linux,mongodb,md,git)   
+###### and a little of
+![My Skills](https://skillicons.dev/icons?i=js,bash)
+
+## My _very good_ stats:
+
+![Ma stats](https://github-readme-stats.vercel.app/api?username=barabum0&theme=onedark&show_icons=true&hide_rank=true&custom_title=very+good+stats&count_private=true&hide_border=true&line_height=24&bg_color=0d1117)
