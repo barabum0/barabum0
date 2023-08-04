@@ -9,3 +9,5 @@
 ## My _very good_ stats:
 
 ![Ma stats](https://github-readme-stats.vercel.app/api?username=barabum0&theme=onedark&show_icons=true&hide_rank=true&custom_title=very+good+stats&count_private=true&hide_border=true&line_height=24&bg_color=0d1117)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
