@@ -10,5 +10,6 @@
 
 ## My ~~_very good_~~ stats:
 
-![Ma stats](https://github-readme-stats.vercel.app/api?username=barabum0&theme=onedark&show_icons=true&hide_rank=true&custom_title=very+good+stats&count_private=true&hide_border=true&line_height=24&bg_color=0d1117)
-![Ma wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=barabum0&theme=onedark&hide_border=true&line_height=24&bg_color=0d1117&custom_title=very+good+time&langs_count=5)
+![Ma stats](https://github-readme-stats.vercel.app/api?username=barabum0&theme=onedark&show_icons=true&hide_rank=false&custom_title=very+good+stats&count_private=true&hide_border=true&line_height=24&bg_color=0d1117&card_width=494px)
+
+![Ma wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=barabum0&theme=onedark&hide_border=true&line_height=24&bg_color=0d1117&custom_title=very+good+time&langs_count=5&layout=compact)
