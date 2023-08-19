@@ -6,7 +6,7 @@
 
 ###### and a little of
 
-![My Skills](https://skillicons.dev/icons?i=js,bash,docker,java)
+![My Skills](https://skillicons.dev/icons?i=js,bash,docker,java,unity,cs)
 
 ## My ~~_very good_~~ stats:
 
