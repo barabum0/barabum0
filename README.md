@@ -2,11 +2,11 @@
 
 ## My skills:
 
-![My Skills](https://skillicons.dev/icons?i=python,fastapi,linux,mongodb,md,git)
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,linux,mongodb,md,git,docker)
 
-###### and a little of
+##### and a little of
 
-![My Skills](https://skillicons.dev/icons?i=js,bash,docker,java,unity,cs)
+![My Skills](https://skillicons.dev/icons?i=js,bash,java,unity,cs)
 
 ## My ~~_very good_~~ stats:
 
