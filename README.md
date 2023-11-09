@@ -2,7 +2,7 @@
 
 ## My skills:
 
-![My Skills](https://skillicons.dev/icons?i=python,fastapi,linux,mongodb,md,git,docker)
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,linux,mongodb,md,git,docker,regex)
 
 ##### and a little of
 
