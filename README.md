@@ -23,4 +23,5 @@
   <a href="https://t.me/barabumbum"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram" alt="Telegram"></a>
   <a href="https://vk.com/barabumbam"><img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=vk" alt="ВКонтакте"></a>
   <a href="mailto:barabum@duck.com"><img src="https://img.shields.io/badge/Mail%20me-red?style=for-the-badge&logo=mail.ru" alt="Mail me"></a>
+  <a href="https://resume.sushka.dev"><img src="https://img.shields.io/badge/My%20resume-black?style=for-the-badge&logo=readme" alt="My resume"></a>
 </p>
