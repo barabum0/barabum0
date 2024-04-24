@@ -6,7 +6,7 @@
 
 ## What I Work With 🛠️
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,linux,mongodb,md,git,docker,regex,bash,js,java,unity,cs" alt="My tech stack">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,linux,mongodb,md,git,docker,regex,bash,js,java,unity,cs,rust" alt="My tech stack">
 </p>
 
 
