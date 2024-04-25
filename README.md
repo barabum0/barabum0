@@ -5,9 +5,12 @@
 <br>
 
 ## What I Work With 🛠️
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,linux,mongodb,md,git,docker,regex,bash,js,java,unity,cs,rust" alt="My tech stack">
-</p>
+<div align="center">
+  <h3>Langs</h3>
+  <img src="https://skillicons.dev/icons?i=python,rust,js,java,cs" alt="My tech stack icons line 1">
+  <h3>Other technologies</h3>
+  <img src="https://skillicons.dev/icons?i=regex,bash,unity,fastapi,linux,md,git,mongodb,docker" alt="My tech stack icons line 2">
+</div>
 
 
 ## My Stats 📈
