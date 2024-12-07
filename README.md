@@ -28,3 +28,12 @@
   <a href="mailto:barabum@duck.com"><img src="https://img.shields.io/badge/Mail%20me-red?style=for-the-badge&logo=mail.ru" alt="Mail me"></a>
   <a href="https://resume.sushka.dev"><img src="https://img.shields.io/badge/My%20resume-black?style=for-the-badge&logo=readme" alt="My resume"></a>
 </p>
+
+## Some of my OSS projects
+<p align="center">
+  <a href="https://github.com/barabum0/aiogram-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=barabum0&amp;repo=aiogram-template&amp;theme=github_dark&amp;description_lines_count=3" alt="Aiogram bot template"></a> <a href="https://github.com/barabum0/egui-web-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=barabum0&amp;repo=egui-web-template&amp;theme=github_dark&amp;description_lines_count=3" alt="Rust egui web app template"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/barabum0/fastapi-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=barabum0&amp;repo=fastapi-template&amp;theme=github_dark&amp;description_lines_count=3" alt="FastAPI template"></a> <a href="https://github.com/barabum0/python-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=barabum0&amp;repo=python-template&amp;theme=github_dark&amp;description_lines_count=3" alt="General Python template"></a>
+</p>
+
