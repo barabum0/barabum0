@@ -17,8 +17,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barabum0&theme=onedark&show_icons=true&hide_rank=true&count_private=true&hide_border=true&line_height=24&bg_color=0d1117&card_width=200px"
        alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=barabum0&theme=onedark&hide_border=true&line_height=24&bg_color=0d1117&langs_count=10&layout=compact"
-       alt="Wakatime stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=barabum0&theme=onedark&hide_border=true&line_height=24&bg_color=0d1117&langs_count=10&layout=compact&custom_title=Wakatime%20stats%20(not%20working%20for%20some%20reason)"
+       alt="Wakatime stats (not working for some reason)">
 </p>
 
 <h4 align="center"> Let's Connect 🤝</h4>
