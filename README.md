@@ -28,6 +28,6 @@
   <a href="https://github.com/barabum0/aiogram-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=barabum0&amp;repo=aiogram-template&amp;theme=github_dark&amp;description_lines_count=3" alt="Aiogram bot template"></a> <a href="https://github.com/barabum0/egui-web-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=barabum0&amp;repo=egui-web-template&amp;theme=github_dark&amp;description_lines_count=3" alt="Rust egui web app template"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/barabum0/fastapi-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=barabum0&amp;repo=fastapi-template&amp;theme=github_dark&amp;description_lines_count=3" alt="FastAPI template"></a> <a href="https://github.com/barabum0/python-template-uv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=barabum0&amp;repo=python-template-uv&amp;theme=github_dark&amp;description_lines_count=3" alt="General Python template"></a>
+  <a href="https://github.com/barabum0/fastapi-template-uv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=barabum0&amp;repo=fastapi-template-uv&amp;theme=github_dark&amp;description_lines_count=3" alt="FastAPI template"></a> <a href="https://github.com/barabum0/python-template-uv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=barabum0&amp;repo=python-template-uv&amp;theme=github_dark&amp;description_lines_count=3" alt="General Python template"></a>
 </p>
 
